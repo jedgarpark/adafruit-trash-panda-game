@@ -1631,7 +1631,6 @@ game.onUpdate(function () {
         //
         //
         // right side
-        //
         if (Lynn.x == 110) {
             animation.setAction(Lynn, ActionKind.Idle_Left)
         } else {
